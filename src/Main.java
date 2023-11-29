@@ -1,5 +1,4 @@
 public class Main {
-     //Если number == 40, то вывести в консоль "number = 40"
     public static void main(String[] args) {
         System.out.println("Hello");
         int number = 6;
@@ -8,6 +7,8 @@ public class Main {
         } else if (number == 40) {
             System.out.println("number ="+ number);
 
+        } else {
+            System.out.println("number =" + number);
         }
     }
 }
