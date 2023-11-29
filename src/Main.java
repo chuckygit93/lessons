@@ -6,9 +6,6 @@ public class Main {
             System.out.println("!!!!");
         } else if (number == 40) {
             System.out.println("number ="+ number);
-
-        } else {
-            System.out.println("number =" + number);
         }
     }
 }
